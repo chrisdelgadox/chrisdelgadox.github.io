@@ -124,6 +124,7 @@
 - **🌐 Portafolio**: [chrisdelgadox.github.io](https://chrisdelgadox.github.io)
 - **⚡ Alternativo**: [chrisdelgadox-portfolio.netlify.app](https://chrisdelgadox-portfolio.netlify.app)
 - **💼 LinkedIn**: [Perfil Ejecutivo](https://linkedin.com/in/christopher-rodriguez-delgado-desarrollador)
+- **🚀 Upwork**: [Perfil Freelance](https://www.upwork.com/freelancers/~01d76e0e3b1c7c5e5a)
 
 ## 📚 Recursos de Liderazgo Técnico
 
@@ -174,3 +175,4 @@
 
 
 </div>
+
