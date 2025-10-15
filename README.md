@@ -1,6 +1,5 @@
 # 🚀 Christopher Rodríguez - Lider Técnico & Project Manager
 
-![Portfolio Preview](https://chrisdelgadox.github.io/og-image.png) <!-- Opcional después -->
 
 ## 👨‍💻 Sobre Mí
 
@@ -172,5 +171,6 @@
 [📧 Email](mailto:christdelgadox@gmail.com)
 
 *"Lidero equipos que construyen tecnología que importa"*
+
 
 </div>
