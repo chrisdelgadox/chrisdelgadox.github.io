@@ -80,6 +80,7 @@ body {
 }
 
 .logo {
+    background: #3b4f59;
     width: 150px;
     height: 150px;
     border: 2px solid var(--primary-color);
