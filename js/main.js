@@ -119,7 +119,7 @@ class PortfolioRenderer {
     renderHeader() {
         const headerHTML = `
             <div class="logo-container">
-                <img src="assets/logo.png" alt="Christopher Rodríguez Logo" class="logo">
+                <img src="/LOGO.png" alt="Christopher Rodríguez Logo" class="logo">
             </div>
             
             <h1 class="name glow">${this.data.header.name}</h1>
