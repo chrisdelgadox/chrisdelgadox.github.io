@@ -1,7 +1,7 @@
 // ===== CHATBOT FUNCTIONALITY =====
 class ProfessionalChatbot {
     constructor() {
-        this.N8N_WEBHOOK_URL = 'https://n8n-chris-pnbq.onrender.com/webhook-test/ad45c7ad-e83d-4d21-85ce-8992736d589b';
+        this.N8N_WEBHOOK_URL = 'https://n8n-chris-pnbq.onrender.com/webhook/ad45c7ad-e83d-4d21-85ce-8992736d589b';
         this.conversationHistory = [];
         this.isChatbotOpen = false;
         this.init();
